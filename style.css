@@ -178,6 +178,14 @@ button:focus-visible {
 	content: '';
 }
 
+.cycles {
+	margin-top: 0.9rem;
+	color: var(--muted);
+	font-family: 'DM Mono', monospace;
+	font-size: 0.72rem;
+	letter-spacing: 0.03em;
+}
+
 @keyframes rise-in {
 	from {
 		opacity: 0;
